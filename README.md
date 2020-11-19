@@ -1,10 +1,6 @@
 # Initial test page
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dignissim metus sed elementum egestas. Curabitur at dictum lorem. Sed sed elementum urna, a efficitur quam. Vivamus est sem, feugiat ac arcu non, rhoncus feugiat enim. Sed a accumsan lorem. Duis malesuada in enim id sollicitudin. Donec sit amet neque condimentum, tempus ligula nec, tincidunt nunc. Curabitur iaculis ligula eget imperdiet interdum.
-
-
-
-![](.gitbook/assets/screenshot-2020-10-20-at-10.28.18.png)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dignissim metus sed elementum egestas. Curabitur at dictum lorem. Sed sed elementum urna, a efficitur quam. Vivamus est sem, feugiat ac arcu non, rhoncus feugiat enim. Sed a accumsan lorem. Duis malesuada in enim id sollicitudin. Donec sit amet neque condimentum, tempus ligula nec, tincidunt nunc. Curabitur iaculis ligula eget imperdiet interdum
 
 {% tabs %}
 {% tab title="First Tab" %}
